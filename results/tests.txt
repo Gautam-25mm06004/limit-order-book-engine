@@ -1,0 +1,4 @@
+scenario tests (MapBook) done
+scenario tests (LadderBook) done
+differential test: 200000 ops, 60859 trades, 19726 resting orders
+ALL TESTS PASSED

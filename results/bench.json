@@ -1,0 +1,5 @@
+{
+  "ops": 2000000, "limit": 1099571, "market": 199659, "cancel": 700770,
+  "MapBook": {"mops_per_s": 4.675, "limit_p50_ns": 114, "limit_p99_ns": 954, "limit_p999_ns": 2035, "market_p50_ns": 134, "market_p99_ns": 1250, "market_p999_ns": 2424, "cancel_p50_ns": 213, "cancel_p99_ns": 686, "cancel_p999_ns": 1059},
+  "LadderBook": {"mops_per_s": 16.516, "limit_p50_ns": 51, "limit_p99_ns": 372, "limit_p999_ns": 1406, "market_p50_ns": 95, "market_p99_ns": 474, "market_p999_ns": 874, "cancel_p50_ns": 94, "cancel_p99_ns": 347, "cancel_p999_ns": 531}
+}

@@ -1,0 +1,9 @@
+flow: 2000000 ops (1099571 limit, 199659 market, 700770 cancel)
+MapBook         4.68 M ops/s  (2000000 ops in 0.428 s, checksum 1068745)
+  limit   n=1099571  p50    114 ns  p99     954 ns  p99.9     2035 ns
+  market  n=199659   p50    134 ns  p99    1250 ns  p99.9     2424 ns
+  cancel  n=700770   p50    213 ns  p99     686 ns  p99.9     1059 ns
+LadderBook     16.52 M ops/s  (2000000 ops in 0.121 s, checksum 1068745)
+  limit   n=1099571  p50     51 ns  p99     372 ns  p99.9     1406 ns
+  market  n=199659   p50     95 ns  p99     474 ns  p99.9      874 ns
+  cancel  n=700770   p50     94 ns  p99     347 ns  p99.9      531 ns
